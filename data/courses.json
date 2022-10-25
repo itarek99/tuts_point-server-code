@@ -6,6 +6,7 @@
     "author": "Colt Steele",
     "total_students": 1245,
     "total_rating": 480,
+    "price": 19.5,
     "average_rating": 4.7,
     "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
     "topics": [
@@ -29,6 +30,7 @@
     "author": "Colt Steele",
     "total_students": 1245,
     "total_rating": 480,
+    "price": 19.5,
     "average_rating": 4.7,
     "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
     "topics": [
@@ -52,6 +54,7 @@
     "author": "Colt Steele",
     "total_students": 1245,
     "total_rating": 480,
+    "price": 19.5,
     "average_rating": 4.7,
     "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
     "topics": [
@@ -75,6 +78,7 @@
     "author": "Colt Steele",
     "total_students": 1245,
     "total_rating": 480,
+    "price": 19.5,
     "average_rating": 4.7,
     "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
     "topics": [
@@ -98,6 +102,31 @@
     "author": "Colt Steele",
     "total_students": 1245,
     "total_rating": 480,
+    "price": 19.5,
+    "average_rating": 4.7,
+    "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+    "topics": [
+      "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+      "Create responsive, accessible, and beautiful layouts",
+      "Make REAL web applications using cutting-edge technologies",
+      "Recognize and prevent common security exploits like SQL-Injection & XSS",
+      "Continue to learn and grow as a developer, long after the course ends",
+      "Create a blog application from scratch using Node, Express, and MongoDB."
+    ],
+    "duration": 48.5,
+    "tags": ["photoshop"],
+    "best_selling": false,
+    "recommended": true,
+    "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 1116,
+    "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+    "summary": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games.",
+    "author": "Colt Steele",
+    "total_students": 1245,
+    "total_rating": 480,
+    "price": 19.5,
     "average_rating": 4.7,
     "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
     "topics": [
@@ -115,12 +144,13 @@
     "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   },
   {
-    "id": 1116,
-    "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+    "id": 1117,
+    "title": "Complete Java Bootcamp From Zero to Hero in Java",
     "summary": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games.",
     "author": "Colt Steele",
     "total_students": 1245,
     "total_rating": 480,
+    "price": 19.5,
     "average_rating": 4.7,
     "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
     "topics": [
@@ -132,9 +162,9 @@
       "Create a blog application from scratch using Node, Express, and MongoDB."
     ],
     "duration": 48.5,
-    "tags": ["photoshop"],
+    "tags": ["java"],
     "best_selling": true,
-    "recommended": true,
+    "recommended": false,
     "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
   }
 ]

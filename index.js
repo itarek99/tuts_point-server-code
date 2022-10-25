@@ -6,6 +6,11 @@ app.use(cors());
 const port = 5000;
 
 const courses = require('./data/courses.json');
+const category = require('./data/topic.json');
+
+app.get('/category', (req, res) => {
+  res.send(category);
+});
 
 app.get('/', (req, res) => {
   res.send('Tuts Points server is running!');
