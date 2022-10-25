@@ -1,0 +1,37 @@
+[
+  {
+    "id": 111,
+    "tag": "all",
+    "title": "All Courses"
+  },
+  {
+    "id": 112,
+    "tag": "web-development",
+    "title": "Web Development"
+  },
+  {
+    "id": 113,
+    "tag": "react",
+    "title": "React JS"
+  },
+  {
+    "id": 114,
+    "tag": "css",
+    "title": "CSS"
+  },
+  {
+    "id": 115,
+    "tag": "html",
+    "title": "HTML"
+  },
+  {
+    "id": 116,
+    "tag": "node",
+    "title": "Node JS"
+  },
+  {
+    "id": 116,
+    "tag": "photoshop",
+    "title": "Photoshop"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1111,
+    "title": "The Web Developer Bootcamp 2022",
+    "summary": "The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+    "author": "Colt Steele",
+    "total_students": 1245,
+    "total_rating": 480,
+    "average_rating": 4.7,
+    "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+    "topics": [
+      "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+      "Create responsive, accessible, and beautiful layouts",
+      "Make REAL web applications using cutting-edge technologies",
+      "Recognize and prevent common security exploits like SQL-Injection & XSS",
+      "Continue to learn and grow as a developer, long after the course ends",
+      "Create a blog application from scratch using Node, Express, and MongoDB."
+    ],
+    "duration": 48.5,
+    "tags": ["web-development", "node", "express", "css", "html"],
+    "best_selling": true,
+    "recommended": true,
+    "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 1112,
+    "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "summary": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations and way more!",
+    "author": "Colt Steele",
+    "total_students": 1245,
+    "total_rating": 480,
+    "average_rating": 4.7,
+    "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+    "topics": [
+      "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+      "Create responsive, accessible, and beautiful layouts",
+      "Make REAL web applications using cutting-edge technologies",
+      "Recognize and prevent common security exploits like SQL-Injection & XSS",
+      "Continue to learn and grow as a developer, long after the course ends",
+      "Create a blog application from scratch using Node, Express, and MongoDB."
+    ],
+    "duration": 48.5,
+    "tags": ["web-development", "react"],
+    "best_selling": true,
+    "recommended": true,
+    "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 1113,
+    "title": "Build Responsive Real-World Websites with HTML and CSS",
+    "summary": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations and way more!",
+    "author": "Colt Steele",
+    "total_students": 1245,
+    "total_rating": 480,
+    "average_rating": 4.7,
+    "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+    "topics": [
+      "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+      "Create responsive, accessible, and beautiful layouts",
+      "Make REAL web applications using cutting-edge technologies",
+      "Recognize and prevent common security exploits like SQL-Injection & XSS",
+      "Continue to learn and grow as a developer, long after the course ends",
+      "Create a blog application from scratch using Node, Express, and MongoDB."
+    ],
+    "duration": 48.5,
+    "tags": ["web-development", "css", "html"],
+    "best_selling": true,
+    "recommended": true,
+    "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 1114,
+    "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+    "summary": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations and way more!",
+    "author": "Colt Steele",
+    "total_students": 1245,
+    "total_rating": 480,
+    "average_rating": 4.7,
+    "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+    "topics": [
+      "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+      "Create responsive, accessible, and beautiful layouts",
+      "Make REAL web applications using cutting-edge technologies",
+      "Recognize and prevent common security exploits like SQL-Injection & XSS",
+      "Continue to learn and grow as a developer, long after the course ends",
+      "Create a blog application from scratch using Node, Express, and MongoDB."
+    ],
+    "duration": 48.5,
+    "tags": ["javascript"],
+    "best_selling": true,
+    "recommended": true,
+    "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 1115,
+    "title": "Adobe Photoshop CC - Essentials Training Course",
+    "summary": "This Adobe Photoshop Essentials course will teach you Photoshop Retouching as well as Photoshop for graphic design.",
+    "author": "Colt Steele",
+    "total_students": 1245,
+    "total_rating": 480,
+    "average_rating": 4.7,
+    "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+    "topics": [
+      "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+      "Create responsive, accessible, and beautiful layouts",
+      "Make REAL web applications using cutting-edge technologies",
+      "Recognize and prevent common security exploits like SQL-Injection & XSS",
+      "Continue to learn and grow as a developer, long after the course ends",
+      "Create a blog application from scratch using Node, Express, and MongoDB."
+    ],
+    "duration": 48.5,
+    "tags": ["photoshop"],
+    "best_selling": true,
+    "recommended": true,
+    "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 1116,
+    "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+    "summary": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games.",
+    "author": "Colt Steele",
+    "total_students": 1245,
+    "total_rating": 480,
+    "average_rating": 4.7,
+    "description": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Tuts Points's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market.",
+    "topics": [
+      "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+      "Create responsive, accessible, and beautiful layouts",
+      "Make REAL web applications using cutting-edge technologies",
+      "Recognize and prevent common security exploits like SQL-Injection & XSS",
+      "Continue to learn and grow as a developer, long after the course ends",
+      "Create a blog application from scratch using Node, Express, and MongoDB."
+    ],
+    "duration": 48.5,
+    "tags": ["photoshop"],
+    "best_selling": true,
+    "recommended": true,
+    "thumb_url": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  }
+]
