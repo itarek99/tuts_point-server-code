@@ -1,10 +1,5 @@
 [
   {
-    "id": 111,
-    "tag": "all",
-    "title": "All Courses"
-  },
-  {
     "id": 112,
     "tag": "web-development",
     "title": "Web Development"
